@@ -39,3 +39,6 @@ This project demonstrates:
 - Dashboard design principles  
 - Business storytelling with data  
 - UI/UX improvements (Light vs Dark comparison)
+
+## 👨‍💻 Author
+Mehedi Hasan
